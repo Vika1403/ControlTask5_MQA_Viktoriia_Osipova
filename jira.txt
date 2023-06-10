@@ -1,0 +1,1 @@
+https://viktorin.atlassian.net/jira/software/projects/GOIT/settings/issuetypes/10001/workflow
